@@ -1,2 +1,0 @@
-# Math-detective-game-
-中學一元一次方程式破案冒險遊戲
